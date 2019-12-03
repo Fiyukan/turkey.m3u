@@ -1,188 +1,407 @@
 #EXTM3U
-#EXTINF:-1,A HABER
-http://94.155.207.92:9981/stream/channelid/835031294
-#EXTINF:-1,A HABER HD
-http://94.155.207.92:9981/stream/channelid/883858651
-#EXTINF:-1,A SPOR
-http://94.155.207.92:9981/stream/channelid/1276172446
-#EXTINF:-1,A SPOR HD
-http://94.155.207.92:9981/stream/channelid/1091115981
-#EXTINF:-1,A2
-http://94.155.207.92:9981/stream/channelid/1518548257
-#EXTINF:-1,AKILLI TV
-http://94.155.207.92:9981/stream/channelid/1064606000
-#EXTINF:-1,AKIT TV
-http://94.155.207.92:9981/stream/channelid/987299003
-#EXTINF:-1,ATV
-http://94.155.207.92:9981/stream/channelid/334517462
-#EXTINF:-1,ATV HD
-http://94.155.207.92:9981/stream/channelid/534113629
-#EXTINF:-1, SPORTS HABER HD
-http://94.155.207.92:9981/stream/channelid/930035247
-#EXTINF:-1,BURSA TV
-http://94.155.207.92:9981/stream/channelid/2041839263
-#EXTINF:-1,CARTOON NETWORK
-http://94.155.207.92:9981/stream/channelid/18559420
-#EXTINF:-1,CEM TV
-http://94.155.207.92:9981/stream/channelid/1172657964
-#EXTINF:-1,CNN TÜRK
-http://94.155.207.92:9981/stream/channelid/1834989973
-#EXTINF:-1,CNN TÜRK HD
-http://94.155.207.92:9981/stream/channelid/764249602
-#EXTINF:-1,DISNEY CHANNEL
-http://94.155.207.92:9981/stream/channelid/1070548465
-#EXTINF:-1,DMAX
-http://94.155.207.92:9981/stream/channelid/1289515189
-#EXTINF:-1,DMAX HD
-http://94.155.207.92:9981/stream/channelid/73650302
-#EXTINF:-1,DREAM TV HD
-http://94.155.207.92:9981/stream/channelid/1109496834
-#EXTINF:-1,DREAM TÜRK
-http://94.155.207.92:9981/stream/channelid/1905767423
-#EXTINF:-1,FB TV
-http://94.155.207.92:9981/stream/channelid/1278250242
-#EXTINF:-1,FOX TV
-http://94.155.207.92:9981/stream/channelid/1261630182
-#EXTINF:-1,FOX TV HD
-http://94.155.207.92:9981/stream/channelid/243510021
-#EXTINF:-1,HALK EURO
-http://94.155.207.92:9981/stream/channelid/52840800
-#EXTINF:-1,HILAL TV
-http://94.155.207.92:9981/stream/channelid/876614831
-#EXTINF:-1,JIYAN TV
-http://94.155.207.92:9981/stream/channelid/386956763
-#EXTINF:-1,KANAL 42
-http://94.155.207.92:9981/stream/channelid/453315551
-#EXTINF:-1,KANAL 7
-http://94.155.207.92:9981/stream/channelid/440369484
-#EXTINF:-1,KANAL 7
-http://94.155.207.92:9981/stream/channelid/1913309622
-#EXTINF:-1,KANAL 7 HD
-http://94.155.207.92:9981/stream/channelid/1231687827
-#EXTINF:-1,KANAL B
-http://94.155.207.92:9981/stream/channelid/849557370
-#EXTINF:-1,KANAL D
-http://94.155.207.92:9981/stream/channelid/644506288
-#EXTINF:-1,KANAL D HD
-http://94.155.207.92:9981/stream/channelid/2113502518
-#EXTINF:-1,KARADENIZTURK TV
-http://94.155.207.92:9981/stream/channelid/143941016
-#EXTINF:-1,KIDZ/ANIMEZ
-http://94.155.207.92:9981/stream/channelid/586413869
-#EXTINF:-1,KRAL TV
-http://94.155.207.92:9981/stream/channelid/1033208012
-#EXTINF:-1,KRAL TV
-http://94.155.207.92:9981/stream/channelid/2114119140
-#EXTINF:-1,KRAL TV HD
-http://94.155.207.92:9981/stream/channelid/704790563
-#EXTINF:-1,LALEGUL
-http://94.155.207.92:9981/stream/channelid/11197237
-#EXTINF:-1,LIFETIME CHANNEL
-http://94.155.207.92:9981/stream/channelid/1302847127
-#EXTINF:-1,minikaCOCUK
-http://94.155.207.92:9981/stream/channelid/1229038368
-#EXTINF:-1,minikaGO
-http://94.155.207.92:9981/stream/channelid/1412862629
-#EXTINF:-1,NAT GEO WILD HD
-http://94.155.207.92:9981/stream/channelid/80937136
-#EXTINF:-1,NTV
-http://94.155.207.92:9981/stream/channelid/2011969880
-#EXTINF:-1,NTV HD
-http://94.155.207.92:9981/stream/channelid/803941764
-#EXTINF:-1,ONE BAL TV
-http://94.155.207.92:9981/stream/channelid/1597269577
-#EXTINF:-1,POWER HD
-http://94.155.207.92:9981/stream/channelid/733784907
-#EXTINF:-1,POWERTURK HD
-http://94.155.207.92:9981/stream/channelid/1504403986
-#EXTINF:-1,SPORTS TV
-http://94.155.207.92:9981/stream/channelid/927063409
-#EXTINF:-1,STAR TV
-http://94.155.207.92:9981/stream/channelid/1444884981
-#EXTINF:-1,STAR TV HD
-http://94.155.207.92:9981/stream/channelid/1934441833
-#EXTINF:-1,TARIMTURK
-http://94.155.207.92:9981/stream/channelid/1335417877
-#EXTINF:-1,TEST 1
-http://94.155.207.92:9981/stream/channelid/1714561761
-#EXTINF:-1,teve2 HD
-http://94.155.207.92:9981/stream/channelid/215919204
-#EXTINF:-1,TGRT BELGESEL
-http://94.155.207.92:9981/stream/channelid/1329876060
-#EXTINF:-1,TGRT EU
-http://94.155.207.92:9981/stream/channelid/2032799359
-#EXTINF:-1,TGRT HABER
-http://94.155.207.92:9981/stream/channelid/602175399
-#EXTINF:-1,TLC
-http://94.155.207.92:9981/stream/channelid/70159588
-#EXTINF:-1,TLC
-http://94.155.207.92:9981/stream/channelid/800148018
-#EXTINF:-1,TMB TV
-http://94.155.207.92:9981/stream/channelid/502950053
-#EXTINF:-1,TV8
-http://94.155.207.92:9981/stream/channelid/124216784
-#EXTINF:-1,TV8 5
-http://94.155.207.92:9981/stream/channelid/667702729
-#EXTINF:-1,TV8 5 HD
-http://94.155.207.92:9981/stream/channelid/331066571
-#EXTINF:-1,TV8 HD
-http://94.155.207.92:9981/stream/channelid/291743728
-#EXTINF:-1,UZAY HABER
-http://94.155.207.92:9981/stream/channelid/1101660063
-#EXTINF:-1,VAN TV
-http://94.155.207.92:9981/stream/channelid/1713864850
-#EXTINF:-1,YABAN TV
-http://94.155.207.92:9981/stream/channelid/467974257
-#EXTINF:-1,FOX TV HD
-http://94.155.207.92:9981/stream/channelid/1556098832
-#EXTINF:-1,SHOW HD
-http://94.155.207.92:9981/stream/channelid/227847588
-#EXTINF:-1,SHOW TV
-http://94.155.207.92:9981/stream/channelid/1673062959
-#EXTINF:-1,HABERTURK HD
-http://94.155.207.92:9981/stream/channelid/115381327
-#EXTINF:-1,HABER GLOBAL HD
-http://94.155.207.92:9981/stream/channelid/123399922
-#EXTINF:-1,BEYAZ TV HD
-http://94.155.207.92:9981/stream/channelid/72420575
-#EXTINF:-1,DIYANET TV HD
-http://94.155.207.92:9981/stream/channelid/1257663610
-#EXTINF:-1,KANAL 7 HD
-http://94.155.207.92:9981/stream/channelid/2018895135
-#EXTINF:-1,KRT TV HD
-http://94.155.207.92:9981/stream/channelid/349582022
-#EXTINF:-1,NR1 TURK TV HD
-http://94.155.207.92:9981/stream/channelid/308770175
-#EXTINF:-1,NR1 TV HD
-http://94.155.207.92:9981/stream/channelid/1204016957
-#EXTINF:-1,POWER HD
-http://94.155.207.92:9981/stream/channelid/1562623263
-#EXTINF:-1,POWERTURK HD
-http://94.155.207.92:9981/stream/channelid/929168995
-#EXTINF:-1,TLC HD
-http://94.155.207.92:9981/stream/channelid/449423679
-#EXTINF:-1,ULKE TV HD
-http://94.155.207.92:9981/stream/channelid/1059613326
-#EXTINF:-1,ULUSAL TV
-http://94.155.207.92:9981/stream/channelid/1867090961
-#EXTINF:-1,24 HD
-http://94.155.207.92:9981/stream/channelid/1087179900
-#EXTINF:-1,A NEWS HD
-http://94.155.207.92:9981/stream/channelid/67177654
-#EXTINF:-1,360 HD
-http://94.155.207.92:9981/stream/channelid/2021407115
-#EXTINF:-1,A PARA HD
-http://94.155.207.92:9981/stream/channelid/1021475429
-#EXTINF:-1,A2 HD
-http://94.155.207.92:9981/stream/channelid/1466685916
-#EXTINF:-1,TV 4 HD
-http://94.155.207.92:9981/stream/channelid/840137942
-#EXTINF:-1,AKIT TV HD
-http://94.155.207.92:9981/stream/channelid/288368599
-#EXTINF:-1,BURSA TV
-http://94.155.207.92:9981/stream/channelid/1329359251
-#EXTINF:-1,CIFTCI TV
-http://94.155.207.92:9981/stream/channelid/942659223
-#EXTINF:-1,TEK RUMELI TV
-http://94.155.207.92:9981/stream/channelid/618007031
-
+#EXTINF:-1,VIP | Sports 1 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/7.ts
+#EXTINF:-1,TR | Sports 1 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/8.ts
+#EXTINF:-1,TR | Sports 2 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/9.ts
+#EXTINF:-1,TR | Sports 3 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/10.ts
+#EXTINF:-1,TR | Sports 4 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/11.ts
+#EXTINF:-1,TR | Sports Haber SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/12.ts
+#EXTINF:-1,TR | Sports Haber UHD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/13.ts
+#EXTINF:-1,TR | S Spor HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/15.ts
+#EXTINF:-1,TR |Sport Smart HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/14.ts
+#EXTINF:-1,TR | TivibuSpor 1
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/16.ts
+#EXTINF:-1,TR | TivibuSpor 2
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/17.ts
+#EXTINF:-1,TR | TivibuSpor 3
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/18.ts
+#EXTINF:-1,TR | STAR TV SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/20.ts
+#EXTINF:-1,TR | STAR TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/21.ts
+#EXTINF:-1,TR | STAR
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/202.ts
+#EXTINF:-1,TR | ATV SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/22.ts
+#EXTINF:-1,TR | ATV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/23.ts
+#EXTINF:-1,TR | ATV AVRUPA
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/24.ts
+#EXTINF:-1,TR | Kanal D SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/26.ts
+#EXTINF:-1,TR | Kanal D HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/27.ts
+#EXTINF:-1,TR | D
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/212.ts
+#EXTINF:-1,TR | SHOW TV SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/28.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/29.ts
+#EXTINF:-1,TR | FOX TV SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/30.ts
+#EXTINF:-1,TR | FOX TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/31.ts
+#EXTINF:-1,TR | NTV SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/34.ts
+#EXTINF:-1,TR | NTV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/35.ts
+#EXTINF:-1,TR | DMAX SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/36.ts
+#EXTINF:-1,TR | DMAX HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/37.ts
+#EXTINF:-1,TR | KANAL 7 SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/44.ts
+#EXTINF:-1,TR | KANAL 7 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/45.ts
+#EXTINF:-1,TR | TV 8 SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/38.ts
+#EXTINF:-1,TR | TV 8 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/39.ts
+#EXTINF:-1,TR | TV 8.5 SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/40.ts
+#EXTINF:-1,TR | TV 8.5 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/41.ts
+#EXTINF:-1,TR | TV 8 INT
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/42.ts
+#EXTINF:-1,TR | CNN TURK SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/54.ts
+#EXTINF:-1,TR | CNN TURK HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/55.ts
+#EXTINF:-1,TR | A Spor SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/50.ts
+#EXTINF:-1,TR | A Spor HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/51.ts
+#EXTINF:-1,TR | BEYAZ TV SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/52.ts
+#EXTINF:-1,TR | BEYAZ TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/53.ts
+#EXTINF:-1,TR | ULKE TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/32.ts
+#EXTINF:-1,TR | HABERTURK HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/47.ts
+#EXTINF:-1,TR | A2
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/25.ts
+#EXTINF:-1,TR | Rumeli TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/56.ts
+#EXTINF:-1,TR | REHBER TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/326.ts
+#EXTINF:-1,TR | Power TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/174.ts
+#EXTINF:-1,TR | Power Turk HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/175.ts
+#EXTINF:-1,TR | PARK TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/325.ts
+#EXTINF:-1,TR | PAMUKKALE TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/271.ts
+#EXTINF:-1,TR | NUMBER 1 TURK HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/257.ts
+#EXTINF:-1,TR | NUMBER 1 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/256.ts
+#EXTINF:-1,TR | Nick Junior
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/341.ts
+#EXTINF:-1,TR | National Geographic HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/64.ts
+#EXTINF:-1,TR | Movie Smart Premium HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/137.ts
+#EXTINF:-1,TR | Movie Smart Platin HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/134.ts
+#EXTINF:-1,TR | Movie Smart Platin 2 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/135.ts
+#EXTINF:-1,TR | Movie Smart Fest HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/132.ts
+#EXTINF:-1,TR | Movie Smart Action HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/129.ts
+#EXTINF:-1,TR | SINEMA TV YERLI HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/859.ts
+#EXTINF:-1,TR | SiNEMA TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/102.ts
+#EXTINF:-1,TR | Sinema TV Aile HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/103.ts
+#EXTINF:-1,TR | SiNEMA TV 1001 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/104.ts
+#EXTINF:-1,TR | SiNEMA TV KOMEDi HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/105.ts
+#EXTINF:-1,TR | SiNEMA TV AKSiYON HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/106.ts
+#EXTINF:-1,TR | Series Sci-fi HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/127.ts
+#EXTINF:-1,TR | Series Drama HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/126.ts
+#EXTINF:-1,TR | Movies Stars HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/123.ts
+#EXTINF:-1,TR | Movies Premiere 2 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/121.ts
+#EXTINF:-1,TR | Movies Action 2 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/114.ts
+#EXTINF:-1,TR | Movie Smart Turk HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/141.ts
+#EXTINF:-1,TR | MovieSmart Premium 2 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/140.ts
+#EXTINF:-1,TR | Series Comedy HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/125.ts
+#EXTINF:-1,TR | MinikaGO
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/164.ts
+#EXTINF:-1,TR | Minika Cocuk
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/165.ts
+#EXTINF:-1,TR | MILYON TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/306.ts
+#EXTINF:-1,TR | MELTEM TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/242.ts
+#EXTINF:-1,TR | LINE TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/301.ts
+#EXTINF:-1,TR | LALEGUL TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/205.ts
+#EXTINF:-1,TR | KUDUS TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/303.ts
+#EXTINF:-1,TR | KRT TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/324.ts
+#EXTINF:-1,TR | Kral TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/191.ts
+#EXTINF:-1,TR | Kral Pop TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/192.ts
+#EXTINF:-1,TR | KOZA TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/197.ts
+#EXTINF:-1,TR | KIBRIS TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/298.ts
+#EXTINF:-1,TR | KIBRIS GENC TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/293.ts
+#EXTINF:-1,TR | KARDELEN TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/297.ts
+#EXTINF:-1,TR | KANAL URFA
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/296.ts
+#EXTINF:-1,TR | KANAL T
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/295.ts
+#EXTINF:-1,TR | KANAL C
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/173.ts
+#EXTINF:-1,TR | Kanal B
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/251.ts
+#EXTINF:-1,TR | Kanal Avrupa
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/233.ts
+#EXTINF:-1,TR | KANAL 52
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/245.ts
+#EXTINF:-1,TR | KANAL 43
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/287.ts
+#EXTINF:-1,TR | KANAL 33
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/307.ts
+#EXTINF:-1,TR | KANAL 3
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/199.ts
+#EXTINF:-1,TR | KADIRGA TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/216.ts
+#EXTINF:-1,TR | KABLO TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/285.ts
+#EXTINF:-1,TR | KABE(CANLI) AL QURAN
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/215.ts
+#EXTINF:-1,TR | ISTANBUL TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/253.ts
+#EXTINF:-1,TR | HRT AKDENIZ TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/214.ts
+#EXTINF:-1,TR | History
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/60.ts
+#EXTINF:-1,TR | HILAL TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/340.ts
+#EXTINF:-1,TR | Halk TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/237.ts
+#EXTINF:-1,TR | GUNEYDOGU TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/213.ts
+#EXTINF:-1,TR | GS TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/225.ts
+#EXTINF:-1,TR | GONCA TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/282.ts
+#EXTINF:-1,TR | GALA TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/279.ts
+#EXTINF:-1,TR | FX HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/71.ts
+#EXTINF:-1,TR | FM TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/280.ts
+#EXTINF:-1,TR | FLASH TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/159.ts
+#EXTINF:-1,TR | FB TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/226.ts
+#EXTINF:-1,TR | Eylul TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/265.ts
+#EXTINF:-1,TR | SPORT 2 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/232.ts
+#EXTINF:-1,TR | sport 1 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/231.ts
+#EXTINF:-1,TR | EKOTURK TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/334.ts
+#EXTINF:-1,TR | EGETURK TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/210.ts
+#EXTINF:-1,TR | EGE TURK
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/275.ts
+#EXTINF:-1,TR | EDESSA TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/193.ts
+#EXTINF:-1,TR | DREAM TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/342.ts
+#EXTINF:-1,TR | DREAM TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/254.ts
+#EXTINF:-1,TR | DREAM TURK
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/255.ts
+#EXTINF:-1,TR | DOST TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/258.ts
+#EXTINF:-1,TR | DIYAR TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/274.ts
+#EXTINF:-1,TR | DIYANET TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/327.ts
+#EXTINF:-1,TR | DIYALOG TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/273.ts
+#EXTINF:-1,TR | Disney Channel
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/201.ts
+#EXTINF:-1,TR | DISCOVERY SCIENCE HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/321.ts
+#EXTINF:-1,TR | Discovery Channel
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/62.ts
+#EXTINF:-1,TR | Da Vinci Learning
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/66.ts
+#EXTINF:-1,TR | CIFTCI TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/270.ts
+#EXTINF:-1,TR | CAY TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/224.ts
+#EXTINF:-1,TR | Cartoon Network
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/167.ts
+#EXTINF:-1,TR | BRT 1 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/323.ts
+#EXTINF:-1,TR | BJK TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/227.ts
+#EXTINF:-1,TR | BEYKENT TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/250.ts
+#EXTINF:-1,TR | BEN TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/260.ts
+#EXTINF:-1,TR | Animal Planet
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/59.ts
+#EXTINF:-1,TR | ALANYA ATV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/238.ts
+#EXTINF:-1,TR | AKILLI TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/261.ts
+#EXTINF:-1,TR | ADA TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/263.ts
+#EXTINF:-1,TR | A Haber HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/49.ts
+#EXTINF:-1,TR | 4 EYLUL TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/157.ts
+#EXTINF:-1,TR | 360 TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/46.ts
+#EXTINF:-1,TR | 24 TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/218.ts
+#EXTINF:-1,TR | DRT DENIZLI
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/198.ts
+#EXTINF:-1,TR | TGRT EU
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/161.ts
+#EXTINF:-1,TR | Nat Geo People
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/63.ts
+#EXTINF:-1,TR | BBC Earth HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/61.ts
+#EXTINF:-1,TR | Baby TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/166.ts
+#EXTINF:-1,TR | BLOOMBERG HT HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/68.ts
+#EXTINF:-1,TR | Nat Geo Wild HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/65.ts
+#EXTINF:-1,TR | TRT 1 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/178.ts
+#EXTINF:-1,TR | Teve 2 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/43.ts
+#EXTINF:-1,TR | CEM TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/223.ts
+#EXTINF:-1,TR | TLC
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/222.ts
+#EXTINF:-1,TR | A Haber SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/48.ts
+#EXTINF:-1,TR | TV 52
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/221.ts
+#EXTINF:-1,TR | TGRT HABER
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/162.ts
+#EXTINF:-1,TR | TV 4 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/206.ts
+#EXTINF:-1,TR | ZORAK TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/338.ts
+#EXTINF:-1,TR | YILDIZ EN TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/337.ts
+#EXTINF:-1,TR | Yaban TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/57.ts
+#EXTINF:-1,TR | VATAN TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/319.ts
+#EXTINF:-1,TR | UZAY HABER
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/318.ts
+#EXTINF:-1,TR | ULUSAL TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/160.ts
+#EXTINF:-1,TR | UCANKUS TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/196.ts
+#EXTINF:-1,TR | TVNet HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/154.ts
+#EXTINF:-1,TR | TV 5
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/252.ts
+#EXTINF:-1,TR | TV 100
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/239.ts
+#EXTINF:-1,BG | Max Sports 1 HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/409.ts
+#EXTINF:-1,TR | TURKSAT TANITIM
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/333.ts
+#EXTINF:-1,TR | TURKSAT SAAT
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/332.ts
+#EXTINF:-1,TR | Turkmeneli HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/314.ts
+#EXTINF:-1,TR | TURKISH TANITIM
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/313.ts
+#EXTINF:-1,TR | TRT World HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/190.ts
+#EXTINF:-1,TR | TRT TURK
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/181.ts
+#EXTINF:TRT SPOR SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/182.ts
+#EXTINF:TRT SPOR HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/331.ts
+#EXTINF:TRT Muzik
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/184.ts
+#EXTINF:TRT KURDI
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/185.ts
+#EXTINF:TRT HABER SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/330.ts
+#EXTINF:TRT HABER HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/180.ts
+#EXTINF:TRT COCUK SD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/186.ts
+#EXTINF:TRT COCUK HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/329.ts
+#EXTINF:TRT Belgesel HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/179.ts
+#EXTINF:TRT AVAZ HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/187.ts
+#EXTINF:TRT ARAPCA
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/328.ts
+#EXTINF:TRT Al Arabiya HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/189.ts
+#EXTINF:TJK TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/228.ts
+#EXTINF:TGRT Belgesel
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/163.ts
+#EXTINF:TELE 1
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/220.ts
+#EXTINF:Tdbir
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/339.ts
+#EXTINF:TAY TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/312.ts
+#EXTINF:Sports TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/230.ts
+#EXTINF:SIVAS SRT
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/311.ts
+#EXTINF:SIM TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/195.ts
+#EXTINF:Semerkand TV HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/240.ts
+#EXTINF:Semerkand TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/309.ts
+#EXTINF:SAUDI SUNNAH
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/219.ts
+#EXTINF:BLOOMBERG TELEVISION HD
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/67.ts
+#EXTINF:ANADOLU DERNEK TV
+http://www.nilsattv.com:8080/live/UXLN470nEB/LR8kvzfQoX/246.ts
